@@ -1,0 +1,14 @@
+Faça uma requisição ao arquivo dados.php e mostre na tabela.
+
+Primeiro clique no botão FORK na pagina do repositório e criará esse repositório na sua conta.
+
+Após isso, clone o projeto pelo seu repositório na pasta raiz do apache. (Exemplo htdocs)
+
+Abre o terminal dentro da pasta e crie o branch develop: git checkout -b develop
+
+Inclua sua solução e ao terminar, git commit -a -m "msg"
+
+Depois git push origin develop.
+
+Agora abra seu repositório e aparecerá uma opção de pull request. Quando mandar para nós avise-nos.
+
